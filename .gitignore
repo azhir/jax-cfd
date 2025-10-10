@@ -1,0 +1,6 @@
+*.pyc
+*.gz
+__pycache__/
+.DS_Store
+jax_cfd.egg-info
+data/
